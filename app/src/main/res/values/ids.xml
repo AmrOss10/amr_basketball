@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_a_score" type="id" />
+    <item name="team_b_score" type="id" />
+    <item name="team_a_3points" type="id" />
+    <item name="reset_btn" type="id" />
+    <item name="team_b_foul_shot" type="id" />
+    <item name="team_b_2points" type="id" />
+    <item name="team_b_3points" type="id" />
+    <item name="team_a_foul_shot" type="id" />
+    <item name="team_a_2points" type="id" />
+    <item name="imageView" type="id" />
+    <item name="team_a" type="id" />
+    <item name="team_b" type="id" />
+    <item name="divider" type="id" />
+</resources>
